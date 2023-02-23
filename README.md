@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CristiP19
 - 👀 I’m interested in writing code
-- 🌱 I’m currently learning basics of programming
+- 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me pogorcristian04@gmail.com
 
